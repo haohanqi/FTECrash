@@ -44,8 +44,8 @@ The propose of the project is to help new frontend developers to find their path
 
 **Phase 1** 
   - [ ] **Basic setup for project**
-   - [ ] Basic page level style components
-   - [ ] Basic state management (ts-pattern + context) 
+    - [ ] Basic page level style components
+    - [ ] Basic state management (ts-pattern + context) 
   - [ ] **Adding CMS to support posting and deleting Blogs**
   - [ ] **Different Blog template components**
   - [ ] **Basic SEO**
