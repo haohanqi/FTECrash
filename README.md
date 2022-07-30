@@ -4,12 +4,21 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+   Welcome to Frontend Crash Website
 </h1>
 
-## 🚀 Quick start
+The propose of the project is to help new frontend developers to find their path to successful career. 
 
-1.  **Start developing.**
+### We will focus on 3 things:
+
+	1. Sharing useful content to help *ZERO CS background* new frontend developers to self study all range of frontend tech.
+
+	2. Sharing useful content to help *ZERO Experience* new frontend developer to crash interview and get into real job workflow as soon as possible.
+
+	3. Using this project as a good practice opportunity for new frontend developers. If you are willing to take a task, maintainer will sign up issues for you. Give all new frontend developers a taste: what is actual workflow in the real job.
+
+## To Start Project
+***Start developing.***
 
     Navigate into your new site’s directory and start it up.
 
@@ -20,16 +29,43 @@
 
     Your site is now running at http://localhost:8000!
 
-2.  **Learn more**
+## Learning Gatsby
+***Learn more***
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+    - [Documentation](_https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+    - [Tutorials](_https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+    - [Guides](_https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+    - [API Reference](_https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+    - [Plugin Library](_https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+    - [Cheat Sheet](_https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+
+
+## Development Plan
+
+	* *Phase 1* 
+	    - *Basic setup for project*
+		    - Basic page level style components
+		    - Basic state management (ts-pattern + context) 
+	    - *Adding CMS to support posting and deleting Blogs*
+	    - *Different Blog template components*
+	    - *Basic SEO*
+	    - *Multilingual support(Chinese and English)*
+
+	* *Phase 2* 
+		- *All pages layout*
+			- Introduction Page
+			- Self-Study Page
+			- Get-Job Page
+			- Participate Project page
+			- Contact us Page
+		- *All pages Web Accessibility* 
+			- Introduction Page
+			- Self-Study Page
+			- Get-Job Page
+			- Participate Project page
+			- Contact us Page
