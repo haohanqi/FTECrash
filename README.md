@@ -27,40 +27,40 @@ The propose of the project is to help new frontend developers to find their path
 ## Learning Gatsby
 ***Learn more***
 
-- [Documentation](_https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+- [ ] [Documentation](_https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-- [Tutorials](_https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+- [ ] [Tutorials](_https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-- [Guides](_https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+- [ ] [Guides](_https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-- [API Reference](_https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+- [ ] [API Reference](_https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-- [Plugin Library](_https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+- [ ] [Plugin Library](_https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
-- [Cheat Sheet](_https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
+- [ ] [Cheat Sheet](_https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts_)
 
 
 ## Development Plan
 
 **Phase 1** 
-  - **Basic setup for project**
-   - Basic page level style components
-   - Basic state management (ts-pattern + context) 
-  - **Adding CMS to support posting and deleting Blogs**
-  - **Different Blog template components**
-  - **Basic SEO**
-  - **Multilingual support(Chinese and English)**
+  - [ ] **Basic setup for project**
+   - [ ] Basic page level style components
+   - [ ] Basic state management (ts-pattern + context) 
+  - [ ] **Adding CMS to support posting and deleting Blogs**
+  - [ ] **Different Blog template components**
+  - [ ] **Basic SEO**
+  - [ ] **Multilingual support(Chinese and English)**
 
 **Phase 2** 
-  - **All pages layout**
-  - **Introduction Page**
-  - **Self-Study Page**
-  - **Get-Job Page**
-  - **Participate Project page**
-  - **Contact us Page**
-  - **All pages Web Accessibility**
-    - Introduction Page
-    - Self-Study Page
-    - Get-Job Page
-    - Participate Project page
-    - Contact us Page
+  - [ ] **All pages layout**
+  - [ ] **Introduction Page**
+  - [ ] **Self-Study Page**
+  - [ ] **Get-Job Page**
+  - [ ] **Participate Project page**
+  - [ ] **Contact us Page**
+  - [ ] **All pages Web Accessibility**
+    - [ ] Introduction Page
+    - [ ] Self-Study Page
+    - [ ] Get-Job Page
+    - [ ] Participate Project page
+    - [ ] Contact us Page
